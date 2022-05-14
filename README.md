@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Dennis.
+- 👀 I’m interested in Web 3.0 applications.
+- 💞️ I’m looking to collaborate on Web 3.0 projects.
